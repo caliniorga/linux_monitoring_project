@@ -1,6 +1,0 @@
-[POSTGRESQL]
-host = localhost
-user = postgres 
-password = Leonardo.2022
-dbname = linux_monitoring
-port = 5432
