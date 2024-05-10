@@ -2,3 +2,4 @@ venv/
 scripts/
 /data/config.txt
 .env/
+/train/train_constants.py
